@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&text=Welcome!😊&desc=This%20is%20seongbae%20playground)
 
-<br><br>
-
 <div align=center>
 
 ## Skills
